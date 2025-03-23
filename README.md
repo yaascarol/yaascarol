@@ -4,7 +4,7 @@
 
 <div>
     <div align="left">
-        <img src="src/img/flor1.gif" alt="">
+        <img src="src/img/flor1.gif" height="10px">
         </img>
     </div>
 </div> 
