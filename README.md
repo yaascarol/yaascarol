@@ -1,8 +1,7 @@
-<div align="center">
-<img src="src/img/result.gif" height="50px">    </img>
-</div>
-
 <div display="flex">
+        <div align="center">
+        <img src="src/img/result.gif" height="50px">    </img>
+        </div>
         <img src="src/img/download (1).gif" height="50px" width="auto" align="left">
         </img>
         <img src="src/img/download (1).gif" height="50px" align="right">
