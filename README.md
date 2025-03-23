@@ -28,9 +28,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:000)](https://www.linkedin.com/in/#/)
 [![Instagram](https://img.shields.io/badge/-Instagram-fff?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:000)](https://www.instagram.com/yasm.nc/)
 </div>
-
+    <br>
+    <img src="src/img/download (1).gif" height="50px" width="auto" align="center">
+    <br>
 <div style="text-align: center;" align="center">
-    <h3>* Status Github *</h3>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yaascarol&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=fff&title_color=FF0000&text_color=000&border_radius=3&border_color=36123c&icon_color=FF0000&theme=jolly" alt="GitHub Stats">
 
   <a href="https://github.com/yaascarol/github-readme-stats">
