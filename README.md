@@ -1,14 +1,13 @@
 <div>
 <img src="src/img/result.gif" align="center">    </img>
+</div>
 
 <div display="flex">
         <img src="src/img/download (1).gif" height="50px" width="auto" align="left">
         </img>
         <img src="src/img/download (1).gif" height="50px" align="right">
         </img>
-    </div>
-    </div>
-</div> 
+</div>
 
 <div align="center">
     <br>
