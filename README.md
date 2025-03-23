@@ -1,4 +1,6 @@
 <div>
+<img src="src/img/result.gif" align="center">    </img>
+
 <div display="flex">
         <img src="src/img/download (1).gif" height="50px" width="auto" align="left">
         </img>
