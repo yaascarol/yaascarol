@@ -1,6 +1,6 @@
 <div>
-<div align="center">
-        <img src="src/img/flor1.gif" height="50px">
+<div align="left">
+        <img src="src/img/download (1).gif" height="50px">
         </img>
     </div>
     </div>
