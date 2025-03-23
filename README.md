@@ -26,7 +26,7 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-fff?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:000)](mailto:yaascarol@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:000)](https://www.linkedin.com/in/#/)
-[![Instagram](https://img.shields.io/badge/-Instagram-fff?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:000)](https://www.instagram.com/yasm.nc/)
+[![Instagram](https://img.shields.io/badge/-Instagram-fff?style=for-the-badge&logo=instagram&logoColor=456&color:000)](https://www.instagram.com/yasm.nc/)
 </div>
     <br>
     <div align="center"><img src="src/img/download (1).gif" height="50px" width="auto"></div>
