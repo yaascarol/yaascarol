@@ -1,11 +1,8 @@
 <div>
-<div align="left">
+<div align="center">
         <img src="src/img/flor1.gif" height="50px">
         </img>
     </div>
-    <div align="right">
-        <img src="src/img/flor1.gif" height="50px">
-        </img>
     </div>
 </div> 
 
