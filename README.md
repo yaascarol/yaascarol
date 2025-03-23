@@ -24,7 +24,7 @@
 <div align="center">
 <h3 align="center">Entre em contato!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-fff?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:000&border_color=fff)](mailto:yaascarol@hotmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-fff?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:000)](mailto:yaascarol@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:000)](https://www.linkedin.com/in/#/)
 [![Instagram](https://img.shields.io/badge/-Instagram-fff?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:000)](https://www.instagram.com/yasm.nc/)
 </div>
@@ -32,7 +32,7 @@
     <div align="center"><img src="src/img/download (1).gif" height="50px" width="auto"></div>
     <br>
 <div style="text-align: center;" align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yaascarol&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=fff&title_color=FF0000&text_color=000&border_radius=3&border_color=36123c&icon_color=FF0000&theme=jolly" alt="GitHub Stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yaascarol&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=fff&title_color=02d600&text_color=000&border_radius=3&border_color=36123c&icon_color=02d600&theme=jolly" alt="GitHub Stats">
 
   <a href="https://github.com/yaascarol/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yaascarol&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=fff&text_color=000&border_radius=3&border_color=561760&count_private=true" alt="Linguagens XP+">
