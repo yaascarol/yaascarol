@@ -1,5 +1,5 @@
-<div>
-<img src="src/img/result.gif" align="center">    </img>
+<div align="center">
+<img src="src/img/result.gif" width="400px">    </img>
 </div>
 
 <div display="flex">
