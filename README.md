@@ -8,12 +8,14 @@
     </div>
 </div> 
 
-Desenvolvedora Web em processo! Minhas principais habilidades são com HTML,
-CSS, Javascript, PHP e banco de dados. Estou cursando a graduação em Tecnólogo
-em Sistemas para Internet no Centro Universitário Senac, onde estou podendo
-aperfeiçoar minhas competências com desenvolvimento web, aprendendo novas
-linguagens de programação, executando a criação de páginas para a web.
-Estou sempre disposta a aprender cada vez mais!
+<div align="center">
+    Desenvolvedora Web em processo! Minhas principais habilidades são com HTML,
+    CSS, Javascript, PHP e banco de dados. Estou cursando a graduação em Tecnólogo
+    em Sistemas para Internet no Centro Universitário Senac, onde estou podendo
+    aperfeiçoar minhas competências com desenvolvimento web, aprendendo novas
+    linguagens de programação, executando a criação de páginas para a web.
+    Estou sempre disposta a aprender cada vez mais!
+</div>
 
 <div align="center">
 <h3 align="center">Entre em contato!</h3>
