@@ -2,7 +2,7 @@
 <img src="src/img/pc--blue.gif" width="200px" height="auto"></img>
 </div>
 
-<div align="left" max-width="150px" margin-bottom="10px">
+<div align="left" width="100px" margin-bottom="10px">
     <p> oie! eu sou a yasmin, e estou cursando o terceiro semestre em Sistemas para Internet no
         Centro Universitário SENAC, estudando para ser desenvolvedora Fullstack!
         <br>
