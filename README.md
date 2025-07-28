@@ -1,5 +1,5 @@
 <div align="right">
-<img src="src/img/pc--blue.gif" width="200px" height="auto"></img>
+<img src="src/img/pc--blue.gif" width="250px" height="auto"></img>
 </div>
 
 <div align="left" margin-top="20px">
