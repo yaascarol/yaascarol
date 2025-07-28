@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" margin-bottom="10px">
-    <p> oie! eu sou a yasmin, e estou cursando o terceiro semestre em Sistemas para Internet no
+    <p text-align="left"> oie! eu sou a yasmin, e estou cursando o terceiro semestre em Sistemas para Internet no
         Centro Universitário SENAC, estudando para ser desenvolvedora Fullstack!
         <br>
         minha trajetória com a internet começou quando criança, eu cresci na internet
