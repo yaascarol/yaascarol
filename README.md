@@ -20,7 +20,7 @@
         programação, finalmente me encontrei! me apaixonei pelo processo da programação,
         decidi mudar de área e hoje sei que finalmente estou no lugar certo!
         <br>
-        minhas principais habilidades são com HTML, CSS, Javascript, PHP e banco de dados, mas
+        minhas principais habilidades são com Java, Python, HTML, CSS, Javascript e banco de dados, mas
         estou constantemente aperfeiçoando minhas competências, seja com a ajuda da faculdade
         ou cursos online para aprender mais processos e linguagens da programação.
         estou sempre disposta a aprender cada vez mais!</p>
