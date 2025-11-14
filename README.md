@@ -30,7 +30,7 @@
 <h3 align="center">Entre em contato!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-fff?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:000)](mailto:yaascarol@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:000)](https://www.linkedin.com/in/#/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:000)]([https://www.linkedin.com/in/yasmin-carolina-fernandes-lopes-a6b71a176/)])
 [![Instagram](https://img.shields.io/badge/-Instagram-fff?style=for-the-badge&logo=instagram&logoColor=292&color:000)](https://www.instagram.com/yasm.nc/)
 </div>
     <br>
