@@ -3,7 +3,7 @@
 </div>
 
 <div align="left" margin-top="20px">
-    <p> oie! eu sou a yasmin, e estou cursando o terceiro semestre em Sistemas para Internet no
+    <p> oie! eu sou a yasmin, sou estagiária de engenharia de dados pela <a href="https://bulkdt.com/"> Bulk Data</a>a> estou cursando o quarto semestre em Sistemas para Internet no
         Centro Universitário SENAC, estudando para ser desenvolvedora Fullstack!
         <br>
         minha trajetória com a internet começou quando criança, eu cresci na internet
